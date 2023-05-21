@@ -1,0 +1,27 @@
+.riga {
+	width:500px;
+	height:15px;
+	color:indianred;
+}
+
+body {
+	background-color: #cfcf99;
+}
+
+h1 {
+	font-size: x-large;
+	color: brown;
+	font-size:40px;
+}
+
+.container {
+	display: flex;
+}
+
+.image {
+	flex: 0 0 auto;
+}
+
+.text {
+	flex: 1 1 auto;
+}
